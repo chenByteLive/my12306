@@ -1,0 +1,9 @@
+server:
+  port: 9004
+
+spring:
+  datasource:
+    driverClassName: com.mysql.cj.jdbc.Driver
+    username: root
+    password: root
+    url: jdbc:mysql://sjk:3306/live?useUnicode=true&characterEncoding=UTF-8&rewriteBatchedStatements=true&allowMultiQueries=true&serverTimezone=Asia/Shanghai&allowPublicKeyRetrieval=true
