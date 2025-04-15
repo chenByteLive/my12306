@@ -1,4 +1,4 @@
-package com.byteLive.base;
+package com.byteLive.base.constant;
 
 /**
  * 全局过滤器顺序执行常量类

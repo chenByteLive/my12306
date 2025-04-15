@@ -1,4 +1,4 @@
-package com.byteLive.base;
+package com.byteLive.base.constant;
 
 public class UserConstant {
     /**
